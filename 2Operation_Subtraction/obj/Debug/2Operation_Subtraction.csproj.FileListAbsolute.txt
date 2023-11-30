@@ -1,0 +1,8 @@
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\bin\Debug\2Operation_Subtraction.exe.config
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\bin\Debug\2Operation_Subtraction.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\bin\Debug\2Operation_Subtraction.pdb
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\obj\Debug\2Operation_Subtraction.csproj.AssemblyReference.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\obj\Debug\2Operation_Subtraction.csproj.SuggestedBindingRedirects.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\obj\Debug\2Operation_Subtraction.csproj.CoreCompileInputs.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\obj\Debug\2Operation_Subtraction.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\2Operation_Subtraction\2Operation_Subtraction\obj\Debug\2Operation_Subtraction.pdb
